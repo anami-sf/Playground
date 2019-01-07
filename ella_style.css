@@ -1,0 +1,45 @@
+﻿body {
+    background-color: lightgrey;
+    text-align: center;
+
+}
+
+.gameWindow {
+    float: left;
+    width: 30%;
+    border: 10px dotted grey;
+    margin: 10px;
+    padding-bottom: 100px;
+}
+
+.gameWindow input {
+    margin:5px;
+}
+
+
+/* MAD LIBS */
+
+#goButton {
+    margin-bottom: 25px;
+}
+
+#story {
+    font-family: fantasy;
+}
+
+#whiskers {
+    position: relative;
+}
+
+
+#catImg {
+    display: block;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 70px;
+    
+} 
+
+#gymPic {
+    width: 200px;
+}
